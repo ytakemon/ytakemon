@@ -3,9 +3,10 @@
 #### My name is Yuka Takemon and I'm a PhD candidate at Canada's Micheal Smith Genome Sciences Centre in Vancouver, British Columbia 🇨🇦
 - 🏳️‍🌈 They/Them/Theirs
 - 🌏 Japanese 🇯🇵 living in Canada
-- 🐭 Previously at The Jackson Lab as a research assistant studying chronic kidney disease and renal aging
+- 📚 Current PhD candidate in the Genome Science + Technology program at the University of British Columbia
 - 🎓 Alumni of University of Maine (PSM in Bioinformatics) and College of the Atlantic (BA in Human Ecology) 
-
+- 🐭 Previously at The Jackson Lab as a research assistant studying chronic kidney disease and renal aging
+  
 #### My interests 
 - 🧬 Using genetic interactions to understand gene function and identify cancer cell-specific vulnerabilities
 - 💊 Improving personalised cancer medicine
