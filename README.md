@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**ytakemon/ytakemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Yuka Takemon and I'm a PhD candidate at Canada's Micheal Smith Genome Sciences Centre in Vancouver, British Columbia 🇨🇦
+- 🏳️‍🌈 They/Them/Theirs
+- 🌏 Japanese 🇯🇵 living in Canada
+- 🐭 Previously at The Jackson Lab as a research assistant studying chronic kidney disease and renal aging
+- 🎓 Alumni of University of Maine (PSM in Bioinformatics) and College of the Atlantic (BA in Human Ecology) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My interests 
+- 🧬 Using genetic interactions to understand gene function and identify cancer cell-specific vulnerabilities
+- 💊 Improving personalised cancer medicine
+- 🧑🏻‍💻 Teaching folks how to code (check out workshops at [The Carpentries](https://carpentries.org/index.html)!)
+- 💪🏼 Empowering under-represented people through intensional community building (come out to an event with [RLadies Vancouver](https://www.meetup.com/rladies-vancouver/)!)
