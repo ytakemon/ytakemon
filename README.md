@@ -4,8 +4,9 @@
 - 🏳️‍🌈 They/Them/Theirs
 - 🌏 Japanese 🇯🇵 living in Canada
 - 📚 Current PhD candidate in the Genome Science + Technology program at the University of British Columbia
-- 🎓 Alumni of University of Maine (PSM in Bioinformatics) and College of the Atlantic (BA in Human Ecology) 
-- 🐭 Previously at The Jackson Lab as a research assistant studying chronic kidney disease and renal aging
+- 🧑🏻‍🏫 Certified [Carpentries](https://carpentries.org/instructors/) and [RStudio/Posit](https://education.rstudio.com/trainers/people/takemon+yuka/) instructor and lesson maintainer for [Intro to R for Genomics](https://datacarpentry.org/genomics-r-intro/)
+- 🎓 Alumni of University of Maine (PSM in Bioinformatics) and College of the Atlantic (BA in Human Ecology) 🇺🇸
+- 🐭 Previously at The Jackson Lab as a research assistant studying chronic kidney disease and renal aging 🫘🧓🏼
   
 #### My interests 
 - 🧬 Using genetic interactions to understand gene function and identify cancer cell-specific vulnerabilities
