@@ -14,7 +14,7 @@
 - 🧑🏻‍💻 Teaching folks how to code (check out workshops at [The Carpentries](https://carpentries.org/index.html)!)
 - 💪🏼 Empowering under-represented people through intensional community building (come out to an event with [RLadies Vancouver](https://www.meetup.com/rladies-vancouver/)!)
 
-#### GitHub Streak
+#### GitHub streak
 ![Gatchmon's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ytakemon)
 
 #### I mostly think in ... 
