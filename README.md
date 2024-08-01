@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-#### My name is Yuka Takemon and I'm a PhD candidate at Canada's Micheal Smith Genome Sciences Centre in Vancouver, British Columbia 🇨🇦
+#### My name is Yuka Takemon and I'm a research associate at the Michael Smith Laboratories in Vancouver, British Columbia 🇨🇦
 - 🏳️‍🌈 They/Them/Theirs
 - 🌏 Japanese 🇯🇵 living in Canada
-- 📚 Current PhD candidate in the Genome Science + Technology program at the University of British Columbia
+- 📚 Studying cancer genomics in the [Marra Lab](https://www.bcgsc.ca/labs/marra-lab) @ the Michael Smith Laboratories, University of British Columbia
 - 🧑🏻‍🏫 Certified [Carpentries](https://carpentries.org/instructors/) and [RStudio/Posit](https://education.rstudio.com/trainers/people/takemon+yuka/) instructor and lesson maintainer for [Intro to R for Genomics](https://datacarpentry.org/genomics-r-intro/)
-- 🎓 Alumni of the University of Maine (PSM in Bioinformatics) and College of the Atlantic (BA in Human Ecology) 🇺🇸
+- 🎓 Alumni of the University of British Columbia (PhD in Genome Science and Technology), University of Maine (PSM in Bioinformatics) and College of the Atlantic (BA in Human Ecology) 🇺🇸
 - 🐭 Previously at The Jackson Lab as a research assistant studying transcriptomic and proteomic impacts of chronic kidney diseases and renal aging 🫘🧓🏼
   
 #### My interests 
